@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd4ed10981e328b45b319e2bdcc2a39a, type: 3}
+  m_Name: event 6
+  m_EditorClassIdentifier: 
+  money: 0
+  lucky: 0
+  vitality: 0
+  intelligence: 0
+  spirit: 1
+  dexterity: 0
+  title: "\u8CE3\u8089\u56C9"
+  content: "\u9ED1\u8089\u3001\u767D\u8089\u5927\u62CD\u8CE3\u56C9\uFF0C\u51FA\u4F86\u6253\u7403!!"
+  sprites:
+  - {fileID: 659286564, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: -1956814546, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: -782729855, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  changeInterval: 0.1

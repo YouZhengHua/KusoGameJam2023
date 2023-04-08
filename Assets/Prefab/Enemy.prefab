@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 183563561285600034}
   - component: {fileID: 8761976686359273244}
   - component: {fileID: 4084796590286218253}
+  - component: {fileID: 5894509832511158991}
   m_Layer: 6
   m_Name: Enemy
   m_TagString: Untagged
@@ -155,3 +156,45 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &5894509832511158991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 183563561285600035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faf21127e16d3b04d9b930b95ac0e1f6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  allEvent:
+  - {fileID: 11400000, guid: e3c61ea6e1c45c64ca363a3ea6ff01eb, type: 2}
+  - {fileID: 11400000, guid: 82338c6b38efe1d43980553602ff3744, type: 2}
+  - {fileID: 11400000, guid: 850650b0220c2bb4f8224cb5a9bfa235, type: 2}
+  - {fileID: 11400000, guid: d975b535a116b9a45b49320aa85838a2, type: 2}
+  - {fileID: 11400000, guid: 246b9cb8d48a4744c8b0250e3a9d9385, type: 2}
+  - {fileID: 11400000, guid: dedd99424be974e4bb4ee5ae28e8e3a8, type: 2}
+  - {fileID: 11400000, guid: c79c4a595ba182442b090e9239a5376a, type: 2}
+  - {fileID: 11400000, guid: cd659096f20a7534a9d1a90a6e03a66f, type: 2}
+  - {fileID: 11400000, guid: b4d1c85dab1ef464694cd0d185ac5581, type: 2}
+  - {fileID: 11400000, guid: 4b116488ada517a42bb4fde2d5a27907, type: 2}
+  - {fileID: 11400000, guid: 6ed0b369d8b5b1c41889c241576eacec, type: 2}
+  - {fileID: 11400000, guid: 4245718d681297a4b9a0ace558a00bc1, type: 2}
+  - {fileID: 11400000, guid: 57f01b231f8de2446bb4acac0c07a55e, type: 2}
+  - {fileID: 11400000, guid: f204fc9ec7e7b424cb4d6fb355effd97, type: 2}
+  - {fileID: 11400000, guid: 03fe7eb383cf00548be22d47bc25271d, type: 2}
+  - {fileID: 11400000, guid: 8d155a8de4dda31409ad049c466b9c20, type: 2}
+  - {fileID: 11400000, guid: 48d58b73ab19f9d49941c834bd3293af, type: 2}
+  - {fileID: 11400000, guid: d17dd90ac38fab04d995c610e8306866, type: 2}
+  - {fileID: 11400000, guid: 5dae41a30a9544843a6894e7e0e1b48a, type: 2}
+  - {fileID: 11400000, guid: c5bf872e1d0102948a264fed89505bc3, type: 2}
+  - {fileID: 11400000, guid: a548cdf624d2f5a4c8cda510266af42b, type: 2}
+  - {fileID: 11400000, guid: e04dd1722f5c0d74c881848fbe6021a0, type: 2}
+  - {fileID: 11400000, guid: 330749993581c5045b8832a098e793e7, type: 2}
+  - {fileID: 11400000, guid: 742d034313b203c4db758e8807846c93, type: 2}
+  - {fileID: 11400000, guid: 6fa3b658fcbd3f040b3265fa8c8ef63d, type: 2}
+  - {fileID: 11400000, guid: 1fd29e3c282c33645b069ea4e9055393, type: 2}
+  - {fileID: 11400000, guid: 29c23a58678cf6344a0f38df98cfe5a8, type: 2}
+  - {fileID: 11400000, guid: 1602049c3e1d87f4191c0231459ba33d, type: 2}
+  eventCount: 3
