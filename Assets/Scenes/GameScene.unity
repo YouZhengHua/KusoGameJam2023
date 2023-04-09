@@ -2346,7 +2346,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 329713628}
   cameraY: 6
-  maxCameraY: 898
+  maxCameraY: 598
   cameraX: 0
 --- !u!1 &1020417552
 GameObject:
@@ -4647,8 +4647,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _player: {fileID: 329713628}
-  _targetY: 900
-  totalTime: 90
+  _targetY: 600
+  totalTime: 30
   baseData: {fileID: 11400000, guid: cfc4dacb3a8d4bb439e2f3bdab1724fd, type: 2}
   optionsUI: {fileID: 1847090856}
   gameUI: {fileID: 158243489}
@@ -4830,7 +4830,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 153154984183766824, guid: 89bec23516b427c40a797437b4cdcc68, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 904
+      value: 604
       objectReference: {fileID: 0}
     - target: {fileID: 153154984183766824, guid: 89bec23516b427c40a797437b4cdcc68, type: 3}
       propertyPath: m_LocalPosition.z
