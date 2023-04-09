@@ -21,7 +21,7 @@ MonoBehaviour:
   title: "\u907A\u7522"
   content: "\u8001\u5B50\u6709\u9322\u662F\u771F\u7684\uFF0C\u597D\u8036!!"
   sprites:
-  - {fileID: 659286564, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -1956814546, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -782729855, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: 837957558, guid: fa1a321b9cb267744b271fd220ab6a7a, type: 3}
+  - {fileID: -726048344, guid: fa1a321b9cb267744b271fd220ab6a7a, type: 3}
+  - {fileID: 1499940639, guid: fa1a321b9cb267744b271fd220ab6a7a, type: 3}
   changeInterval: 0.1
