@@ -13,10 +13,10 @@ MonoBehaviour:
   m_Name: End 8
   m_EditorClassIdentifier: 
   sprites:
-  - {fileID: 381768574, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
-  - {fileID: 1486942676, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
-  - {fileID: 766110824, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
-  - {fileID: 557141322, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
+  - {fileID: 290380103, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
+  - {fileID: -581993167, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
+  - {fileID: 662206161, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
+  - {fileID: -1610364887, guid: ec6e025a14ff58045a08bbe1d8386ddd, type: 3}
   title: "\u5E73\u51E1\u7684\u4EBA\u985E"
   changeInterval: 0.1
   rate: 1

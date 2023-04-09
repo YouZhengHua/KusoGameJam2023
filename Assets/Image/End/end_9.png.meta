@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: ec6e025a14ff58045a08bbe1d8386ddd
+guid: 1bcb78bd1a1b4bd44ad876c49bd2d794
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -117,55 +117,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_0"
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1700
-        width: 1700
-        height: 1700
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2f537b1d33d70a24583a8e2aed7c51d8
-      internalID: 381768574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_1"
-      rect:
-        serializedVersion: 2
-        x: 1700
-        y: 1700
-        width: 1700
-        height: 1700
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e05cdb034c0e7b24a9fa61444c8f0f6a
-      internalID: 1486942676
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_2"
+      name: end_9_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1700
-        height: 1700
+        width: 2362
+        height: 2362
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,20 +131,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e4cdff93bf0a45a48b4222735b0b193f
-      internalID: 766110824
+      spriteID: 4fadcb393637a48459f52720bf3d9c8b
+      internalID: 1384309005
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_3"
+      name: end_9_1
       rect:
         serializedVersion: 2
-        x: 1700
+        x: 2362
         y: 0
-        width: 1700
-        height: 1700
+        width: 2362
+        height: 2362
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -194,8 +152,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6a39c1f566829b5438551acd52c62c5f
-      internalID: 557141322
+      spriteID: c0a04da7e5d7d684783348c8508a4c52
+      internalID: 693908028
       vertices: []
       indices: 
       edges: []
@@ -211,10 +169,8 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_0": 381768574
-      "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_1": 1486942676
-      "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_2": 766110824
-      "end_8_\u5E73\u51E1\u7684\u4EBA\u985E_3": 557141322
+      end_9_0: 1384309005
+      end_9_1: 693908028
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
