@@ -21,7 +21,7 @@ MonoBehaviour:
   title: "\u8CE3\u8089\u56C9"
   content: "\u9ED1\u8089\u3001\u767D\u8089\u5927\u62CD\u8CE3\u56C9\uFF0C\u51FA\u4F86\u6253\u7403!!"
   sprites:
-  - {fileID: 659286564, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -1956814546, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -782729855, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: 1000788939, guid: dac803fed63bf52458b6bfaa75c6e2d5, type: 3}
+  - {fileID: 1011267330, guid: dac803fed63bf52458b6bfaa75c6e2d5, type: 3}
+  - {fileID: 525829021, guid: dac803fed63bf52458b6bfaa75c6e2d5, type: 3}
   changeInterval: 0.1

@@ -21,7 +21,7 @@ MonoBehaviour:
   title: "\u6211\u5C31\u721B\u8EBA\u5E73"
   content: "\u4ECA\u5929\u53EB\u5916\u8CE3\u5566! \u5433\u67CF\u6BC5\u3001\u4ED8\u76E4\u5B50\u53EB\u8D77\u4F86\u3002"
   sprites:
-  - {fileID: 659286564, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -1956814546, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -782729855, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: 1657006682, guid: 4369640455d3a884e8613a9b0e413cf6, type: 3}
+  - {fileID: -889153053, guid: 4369640455d3a884e8613a9b0e413cf6, type: 3}
+  - {fileID: 2061987742, guid: 4369640455d3a884e8613a9b0e413cf6, type: 3}
   changeInterval: 0.1

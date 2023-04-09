@@ -21,7 +21,8 @@ MonoBehaviour:
   title: "\u591A\u62C9AI\u5E6B\u5E6B\u6211"
   content: "\u5FEB\u9EDE\u5E6B\u5E6B\u6211\u554A\uFF0CChatGPT \u591A\u62C9AI!!"
   sprites:
-  - {fileID: 659286564, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -1956814546, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -782729855, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: 150468756, guid: f82b8779aed0802418eb224b494d0451, type: 3}
+  - {fileID: -238915059, guid: f82b8779aed0802418eb224b494d0451, type: 3}
+  - {fileID: -1518080596, guid: f82b8779aed0802418eb224b494d0451, type: 3}
+  - {fileID: -1111477158, guid: f82b8779aed0802418eb224b494d0451, type: 3}
   changeInterval: 0.1
