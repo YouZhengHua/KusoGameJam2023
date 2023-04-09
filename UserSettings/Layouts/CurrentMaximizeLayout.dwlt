@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 99
+  controlID: 19
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -88,7 +88,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 0
+    m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 100
+  controlID: 20
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -563,13 +563,13 @@ MonoBehaviour:
     m_SaveData: []
     m_OverlaysVisible: 1
   m_ObjectsLockedBeforeSerialization:
-  - {fileID: 11400000, guid: 246b9cb8d48a4744c8b0250e3a9d9385, type: 2}
+  - {fileID: 11400000, guid: a548cdf624d2f5a4c8cda510266af42b, type: 2}
   m_InstanceIDsLockedBeforeSerialization: 
   m_PreviewResizer:
     m_CachedPref: 322
     m_ControlHash: 1412526313
     m_PrefName: Preview_InspectorPreview
-  m_LastInspectedObjectInstanceID: 9198
+  m_LastInspectedObjectInstanceID: 26004
   m_LastVerticalScrollValue: 0
   m_GlobalObjectId: 
   m_InspectorMode: 0
@@ -663,7 +663,7 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 53938
+  m_LastSelectedObjectID: 81724
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -688,7 +688,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 115
+  controlID: 86
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -747,23 +747,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: ec600000
+      m_SelectedIDs: e4650000
       m_LastClickedID: 0
-      m_ExpandedIDs: 909ffdffb0a1fdffe8a1fdff8ca2fdff94a2fdffe0a3fdff28a4fdff1aa6fdff24a6fdfff8b0fdff40b1fdffe4b1fdffecb1fdffa4b5fdfff0b5fdffe2b7fdffecb7fdff32bafdfff6cefdffded8fdff98e3fdff56edfdff88effdff62f8fdff72fbfdff6a12feffb214feff3e15feff8215feff2416feff2c16feffce16feff1217feff1619feff1e19feffa619feffeae2ffffa8e6ffffd2edffffb2faffffd4faffff345e00004a5e0000c45e0000d05e00006ad2000098d200007ed30000bae0000034e1000062e100005ae2000012e8000002eb0000caf40000
+      m_ExpandedIDs: 80eeffff72f0ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: ProcessController
-        m_OriginalName: ProcessController
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 62746
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 11}
       m_SearchString: 
@@ -849,14 +849,14 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\Unity\KusoGameJam\KusoGameJamD
+  m_LastProjectPath: D:\Unity\KusoGameJam\KusoGameJamDCopy
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 27}
-    m_SelectedIDs: 3a600000
-    m_LastClickedID: 24634
-    m_ExpandedIDs: 0000000026600000286000003260000036600000406000003a650000dc9d000000ca9a3b
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: d0650000
+    m_LastClickedID: 26064
+    m_ExpandedIDs: 000000009a650000cc65000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -884,7 +884,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000002660000028600000
+    m_ExpandedIDs: 000000009a650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -909,10 +909,10 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: ec600000
-    m_LastClickedInstanceID: 24812
+    m_SelectedInstanceIDs: e4650000
+    m_LastClickedInstanceID: 26084
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000000000001e8a000096880000bc88000074cd0000348600003673000030730000149e0000d4a1000056c1000046c10000dca10000
+    m_ExpandedInstanceIDs: c6230000000000001e8a000096880000bc88000074cd0000348600003673000030730000149e0000d4a1000056c10000dca1000024c3000010c3000014c3000002c8000020c8000026c80000cec70000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
