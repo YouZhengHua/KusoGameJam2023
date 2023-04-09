@@ -22,7 +22,14 @@ MonoBehaviour:
   content: "\u6211\u7684\u5B57\u5178\u88E1\u6C92\u6709\u653E\u68C4\uFF0C\u56E0\u70BA\u5DF2\u9396\u5B9A\u4F60~
     \u9B45\u529B\u8B93\u4F60\u7684\u76EE\u6A19\u9003\u4E0D\u4E86\u5566!"
   sprites:
-  - {fileID: 659286564, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -1956814546, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -782729855, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: -938002414, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: -1026174545, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: 1196798695, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: -2092558577, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: 984508314, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: 1994117569, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: -1658243994, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: 1917077225, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: 1531112426, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
+  - {fileID: 756683548, guid: 7c32f25818875384dbdd2dc6305e53e5, type: 3}
   changeInterval: 0.1

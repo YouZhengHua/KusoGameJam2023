@@ -21,7 +21,14 @@ MonoBehaviour:
   title: "\u8DDF\u8457\u8001\u5E2B\u52D5\u8CC7\u52D5"
   content: "\u8DDF\u8457\u80A1\u7968\u517C\u9AD4\u64CD\u8001\u5E2B\u52D5\u8CC7\u52D5\uFF0C\u8B93\u4F60\u63D0\u5347\u6295\u80A1\u65B9\u5411\u53C8\u7DF4\u9AD4\u529B"
   sprites:
-  - {fileID: 659286564, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -1956814546, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
-  - {fileID: -782729855, guid: f0c246e19e8df834db85b9a506ece8f2, type: 3}
+  - {fileID: 545245900, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: -1432273171, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: -1535899221, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: -1448417647, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: -1537994266, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: -2063434024, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: -1874103863, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: 118494652, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: -1622983653, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
+  - {fileID: 1882660487, guid: 21f1ad3f6648e6549bbebea15fed0c85, type: 3}
   changeInterval: 0.1
