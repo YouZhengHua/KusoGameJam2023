@@ -16,5 +16,5 @@ MonoBehaviour:
   - {fileID: 1384309005, guid: 1bcb78bd1a1b4bd44ad876c49bd2d794, type: 3}
   - {fileID: 693908028, guid: 1bcb78bd1a1b4bd44ad876c49bd2d794, type: 3}
   title: "\u7121\u86CB\u4E73"
-  changeInterval: 0.1
+  changeInterval: 0.5
   rate: 1
